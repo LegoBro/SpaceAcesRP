@@ -1,6 +1,8 @@
 {
-  "parent": "minecraft:block/template_orientable_trapdoor_top",
+  "parent": "minecraft:block/top_half_slope",
   "textures": {
-    "texture": "minecraft:block/crimson_trapdoor"
+    "top": "minecraft:block/crimson_trapdoor",
+    "bottom": "minecraft:block/crimson_trapdoor",
+    "side": "minecraft:block/crimson_trapdoor"
   }
 }
