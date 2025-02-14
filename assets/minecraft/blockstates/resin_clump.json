@@ -1,17 +1,75 @@
 {
   "multipart": [
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump"
-      },
+      "apply": [
+        {
+          "model": "minecraft:block/rust/0"
+        },
+        {
+          "model": "minecraft:block/rust/1"
+        },
+        {
+          "model": "minecraft:block/rust/2"
+        },
+        {
+          "model": "minecraft:block/rust/3"
+        },
+        {
+          "model": "minecraft:block/rust/4"
+        },
+        {
+          "model": "minecraft:block/rust/5"
+        },
+        {
+          "model": "minecraft:block/rust/6"
+        },
+        {
+          "model": "minecraft:block/rust/7"
+        },
+        {
+          "model": "minecraft:block/rust/8"
+        },
+        {
+          "model": "minecraft:block/rust/9"
+        }
+      ],
       "when": {
         "north": "true"
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump"
-      },
+      "apply": [
+        {
+          "model": "minecraft:block/rust/0"
+        },
+        {
+          "model": "minecraft:block/rust/1"
+        },
+        {
+          "model": "minecraft:block/rust/2"
+        },
+        {
+          "model": "minecraft:block/rust/3"
+        },
+        {
+          "model": "minecraft:block/rust/4"
+        },
+        {
+          "model": "minecraft:block/rust/5"
+        },
+        {
+          "model": "minecraft:block/rust/6"
+        },
+        {
+          "model": "minecraft:block/rust/7"
+        },
+        {
+          "model": "minecraft:block/rust/8"
+        },
+        {
+          "model": "minecraft:block/rust/9"
+        }
+      ],
       "when": {
         "down": "false",
         "east": "false",
@@ -22,21 +80,115 @@
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "uvlock": true,
-        "y": 90
-      },
+      "apply": [
+        {
+          "model": "minecraft:block/rust/0",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/1",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/2",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/3",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/4",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/5",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/6",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/7",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/8",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/9",
+          "uvlock": true,
+          "y": 90
+        }
+      ],
       "when": {
         "east": "true"
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "uvlock": true,
-        "y": 90
-      },
+      "apply": [
+        {
+          "model": "minecraft:block/rust/0",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/1",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/2",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/3",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/4",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/5",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/6",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/7",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/8",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/rust/9",
+          "uvlock": true,
+          "y": 90
+        }
+      ],
       "when": {
         "down": "false",
         "east": "false",
@@ -47,21 +199,115 @@
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "uvlock": true,
-        "y": 180
-      },
+      "apply": [
+        {
+          "model": "minecraft:block/rust/0",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/1",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/2",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/3",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/4",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/5",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/6",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/7",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/8",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/9",
+          "uvlock": true,
+          "y": 180
+        }
+      ],
       "when": {
         "south": "true"
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "uvlock": true,
-        "y": 180
-      },
+      "apply": [
+        {
+          "model": "minecraft:block/rust/0",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/1",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/2",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/3",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/4",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/5",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/6",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/7",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/8",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/rust/9",
+          "uvlock": true,
+          "y": 180
+        }
+      ],
       "when": {
         "down": "false",
         "east": "false",
@@ -72,21 +318,115 @@
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "uvlock": true,
-        "y": 270
-      },
+      "apply": [
+        {
+          "model": "minecraft:block/rust/0",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/1",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/2",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/3",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/4",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/5",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/6",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/7",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/8",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/9",
+          "uvlock": true,
+          "y": 270
+        }
+      ],
       "when": {
         "west": "true"
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "uvlock": true,
-        "y": 270
-      },
+      "apply": [
+        {
+          "model": "minecraft:block/rust/0",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/1",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/2",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/3",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/4",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/5",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/6",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/7",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/8",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/rust/9",
+          "uvlock": true,
+          "y": 270
+        }
+      ],
       "when": {
         "down": "false",
         "east": "false",
@@ -97,21 +437,115 @@
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "uvlock": true,
-        "x": 270
-      },
+      "apply": [
+        {
+          "model": "minecraft:block/rust/0",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/1",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/2",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/3",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/4",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/5",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/6",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/7",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/8",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/9",
+          "uvlock": true,
+          "x": 270
+        }
+      ],
       "when": {
         "up": "true"
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "uvlock": true,
-        "x": 270
-      },
+      "apply": [
+        {
+          "model": "minecraft:block/rust/0",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/1",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/2",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/3",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/4",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/5",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/6",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/7",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/8",
+          "uvlock": true,
+          "x": 270
+        },
+        {
+          "model": "minecraft:block/rust/9",
+          "uvlock": true,
+          "x": 270
+        }
+      ],
       "when": {
         "down": "false",
         "east": "false",
@@ -122,21 +556,115 @@
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "uvlock": true,
-        "x": 90
-      },
+      "apply": [
+        {
+          "model": "minecraft:block/rust/0",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/1",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/2",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/3",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/4",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/5",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/6",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/7",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/8",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/9",
+          "uvlock": true,
+          "x": 90
+        }
+      ],
       "when": {
         "down": "true"
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "uvlock": true,
-        "x": 90
-      },
+      "apply": [
+        {
+          "model": "minecraft:block/rust/0",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/1",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/2",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/3",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/4",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/5",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/6",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/7",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/8",
+          "uvlock": true,
+          "x": 90
+        },
+        {
+          "model": "minecraft:block/rust/9",
+          "uvlock": true,
+          "x": 90
+        }
+      ],
       "when": {
         "down": "false",
         "east": "false",
