@@ -1,8 +1,8 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "block/rust/0",
-        "texture": "block/rust/0"
+        "particle": "block/rust/3",
+        "texture": "block/rust/3"
     },
     "elements": [
         {   "from": [ 0, 0, 0.1 ],
