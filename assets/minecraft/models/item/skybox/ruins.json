@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "item/skybox/ruins",
@@ -11,7 +10,6 @@
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
 			"shade": false,
-			"light_emission": 15,
 			"faces": {
 				"north": {"uv": [0, 0, 4, 4], "texture": "#0"},
 				"east": {"uv": [0, 4, 4, 8], "texture": "#0"},
