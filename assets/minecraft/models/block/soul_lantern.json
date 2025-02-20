@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/template_lantern",
   "textures": {
-    "lantern": "minecraft:block/soul_lantern"
+    "0": "block/space_aces/alert_lantern"
   }
 }

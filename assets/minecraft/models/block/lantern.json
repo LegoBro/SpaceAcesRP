@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/template_lantern",
   "textures": {
-    "lantern": "minecraft:block/lantern"
+    "0": "minecraft:block/space_aces/box_lantern"
   }
 }
