@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"particle": "item/skybox/ruins"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"south": {"uv": [4, 0, 8, 4], "texture": "#0"},
+				"west": {"uv": [4, 4, 8, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-0.51, -0.005, -0.51],
+			"to": [16.51, 15.995, 16.51],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.51, -0.005, -0.51]},
+			"faces": {
+				"up": {"uv": [4.255, 12.255, 0, 8], "texture": "#0"},
+				"down": {"uv": [12.255, 0, 8, 4.255], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -3,7 +3,7 @@
 	"parent":"item/skybox/general",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/skybox/frigate",
-		"particle": "item/skybox/frigate"
+		"0": "item/skybox/dev",
+		"particle": "item/skybox/dev"
 	}
 }
