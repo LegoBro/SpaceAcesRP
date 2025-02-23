@@ -30,6 +30,71 @@
 	"up": "true",
 	"down": "true"
       }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/skybox/navy"
+      },
+      "when": {
+        "north": "true",
+	"south": "true",
+	"east": "false",
+	"west": "true",
+	"up": "true",
+	"down": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/skybox/deep_sea"
+      },
+      "when": {
+        "north": "true",
+	"south": "true",
+	"east": "true",
+	"west": "false",
+	"up": "true",
+	"down": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/skybox/sky"
+      },
+      "when": {
+        "north": "true",
+	"south": "true",
+	"east": "true",
+	"west": "true",
+	"up": "false",
+	"down": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/skybox/ember"
+      },
+      "when": {
+        "north": "true",
+	"south": "true",
+	"east": "true",
+	"west": "true",
+	"up": "true",
+	"down": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/skybox/white"
+      },
+      "when": {
+        "north": "false",
+	"south": "false",
+	"east": "true",
+	"west": "true",
+	"up": "true",
+	"down": "true"
+      }
     }
 
   ]

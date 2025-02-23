@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/skybox",
+  "textures": {
+    "all": "minecraft:block/skybox/sky"
+  }
+}
