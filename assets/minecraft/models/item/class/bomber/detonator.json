@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench by ThatGreenGem",
 	"textures": {
-		"2": "class/bomber/remote_detonator"
+		"2": "item/class/bomber/remote_detonator_open"
 	},
 	"elements": [
 		{
