@@ -1,6 +1,19 @@
 {
     "model": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/class/bomber/detonator"
-    }
+        "type": "select",
+        "property":"minecraft:display_context",
+        "cases":[
+          {
+            "when":"gui",
+            "model": {
+              "type": "model",
+              "model":"minecraft:item/class/bomber/detonator_icon"
+            }
+          }
+        ],
+        "fallback": {
+          "type": "model",
+          "model": "minecraft:item/class/bomber/detonator"
+        }
+      }
   }
