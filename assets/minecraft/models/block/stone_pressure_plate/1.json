@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/button_pressed",
 	"textures": {
-		"1": "block/andesite"
+		"1": "block/andesite",
+		"particle": "block/andesite"
 	},
 	"elements": [
 		{
