@@ -5,20 +5,49 @@
     },
     "powered=true": [
       {
-        "model": "minecraft:block/stone_pressure_plate_down"
+        "model": "minecraft:block/stone_pressure_plate_down/0"
       },
       {
-        "model": "minecraft:block/stone_pressure_plate_down",
+        "model": "minecraft:block/stone_pressure_plate_down/0",
         "y": 90
       },
       {
-        "model": "minecraft:block/stone_pressure_plate_down",
+        "model": "minecraft:block/stone_pressure_plate_down/0",
         "y": 180
       },
       {
-        "model": "minecraft:block/stone_pressure_plate_down",
+        "model": "minecraft:block/stone_pressure_plate_down/0",
+        "y": 270
+      },{
+        "model": "minecraft:block/stone_pressure_plate_down/1"
+      },
+      {
+        "model": "minecraft:block/stone_pressure_plate_down/1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/stone_pressure_plate_down/1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/stone_pressure_plate_down/1",
+        "y": 270
+      },{
+        "model": "minecraft:block/stone_pressure_plate_down/2"
+      },
+      {
+        "model": "minecraft:block/stone_pressure_plate_down/2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/stone_pressure_plate_down/2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/stone_pressure_plate_down/2",
         "y": 270
       }
+      
     ]
   }
 }
