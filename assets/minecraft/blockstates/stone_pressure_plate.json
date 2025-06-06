@@ -3,8 +3,22 @@
     "powered=false": {
       "model": "minecraft:block/stone_pressure_plate"
     },
-    "powered=true": {
-      "model": "minecraft:block/stone_pressure_plate_down"
-    }
+    "powered=true": [
+      {
+        "model": "minecraft:block/stone_pressure_plate_down"
+      },
+      {
+        "model": "minecraft:block/stone_pressure_plate_down",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/stone_pressure_plate_down",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/stone_pressure_plate_down",
+        "y": 270
+      }
+    ]
   }
 }
