@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/cut_copper_slab"
+    "model": "minecraft:block/new_copper/cut_copper_slab"
   }
 }

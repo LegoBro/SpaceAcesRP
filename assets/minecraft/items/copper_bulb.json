@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/copper_bulb"
+    "model": "minecraft:block/new_copper/copper_bulb"
   }
 }
