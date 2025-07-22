@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/copper_block"
+    "model": "minecraft:block/waxed_copper_block"
   }
 }
