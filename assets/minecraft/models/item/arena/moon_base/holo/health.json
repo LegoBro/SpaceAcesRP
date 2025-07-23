@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/arena/moon_base/holo/welcome",
+		"0": "item/arena/moon_base/holo/health",
 		"1": "item/arena/moon_base/holo/background",
 		"particle": "item/arena/moon_base/holo/welcome"
 	},
