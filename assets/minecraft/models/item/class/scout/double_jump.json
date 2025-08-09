@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench by ThatGreenGem",
 	"parent": "item/class/ability",
 	"textures": {
-		"4": "item/class/scout/hologram",
+		"4": "item/class/hologram",
 		"5": "item/class/scout/double_jump",
 		"6": "item/class/hexagon_border"
 	}
