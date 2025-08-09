@@ -1,11 +1,6 @@
 {
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench by ThatGreenGem",
-	"textures": {
-		"4": "hologram",
-		"5": "double_jump",
-		"6": "hexagon_border"
-	},
 	"elements": [
 		{
 			"from": [7.501, 5.86703, 0.18049],
