@@ -2,5 +2,6 @@
     "model": {
       "type": "minecraft:model",
       "model": "minecraft:item/class/scout/double_jump"
-    }
+    },
+    "oversized_in_gui":true
   }
