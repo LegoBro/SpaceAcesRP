@@ -4,7 +4,6 @@
 	"textures": {
 		"6": "item/class/hexagon_border"
 	},
-	
 	"elements": [
 		{
 			"from": [7.501, 5.86703, 0.18049],
@@ -85,30 +84,31 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-180, -90, 164],
 			"translation": [0, 0.75, 1],
-			"scale": [0.2, 0.2, 0.2]
+			"scale": [0, 0, 0]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [-180, -90, 164],
 			"translation": [0, 0.75, 1],
-			"scale": [0.2, 0.2, 0.2]
+			"scale": [0, 0, 0]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -132, 0],
 			"translation": [0.75, 12, 0],
-			"scale": [0.4, 0.4, 0.4]
+			"scale": [0, 0, 0]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, 48, 0],
 			"translation": [-0.5, 12, 0],
-			"scale": [0.4, 0.4, 0.4]
+			"scale": [0, 0, 0]
 		},
 		"gui": {
 			"rotation": [0, -90, 0],
-			"translation": [0.75, -2.5, 0],
+			"translation": [0.75, -2.25, 0],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"fixed": {
