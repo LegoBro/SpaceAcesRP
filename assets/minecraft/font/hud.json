@@ -1,0 +1,23 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u200c": 0
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/hud.png",
+            "ascent": -50,
+            "height": 6,
+            "chars": [
+                "0123",
+                "4567",
+                "89ab",
+                "cdef"
+            ]
+        }
+    ]
+}
