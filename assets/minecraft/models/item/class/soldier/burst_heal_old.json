@@ -1,0 +1,6 @@
+{
+    "parent": "item/secondary_item",
+    "textures": {
+        "layer0": "item/class/soldier/burst_heal"
+    }
+}

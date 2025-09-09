@@ -1,6 +1,10 @@
 {
-    "parent": "item/secondary_item",
-    "textures": {
-        "layer0": "item/class/soldier/plasma_grenade"
-    }
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by ThatGreenGem",
+	"parent": "item/class/ability",
+	"textures": {
+		"4": "item/class/hologram",
+		"5": "item/class/soldier/plasma_grenade",
+		"6": "item/class/hexagon_border"
+	}
 }

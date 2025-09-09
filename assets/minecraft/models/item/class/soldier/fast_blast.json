@@ -4,7 +4,7 @@
 	"parent": "item/class/ability",
 	"textures": {
 		"4": "item/class/hologram",
-		"5": "item/class/soldier/burst_heal",
+		"5": "item/class/soldier/fast_blast",
 		"6": "item/class/hexagon_border"
 	}
 }
