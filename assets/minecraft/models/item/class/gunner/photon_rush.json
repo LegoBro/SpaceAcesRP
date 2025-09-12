@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by ThatGreenGem",
+	"parent": "item/class/ability",
+	"textures": {
+		"4": "item/class/gunner/hologram",
+		"5": "item/class/gunner/photon_rush",
+		"6": "item/class/hexagon_border"
+	}
+}

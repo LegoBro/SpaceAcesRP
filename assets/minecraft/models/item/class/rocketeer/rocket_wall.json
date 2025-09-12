@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by ThatGreenGem",
+	"parent": "item/class/ability",
+	"textures": {
+		"4": "item/class/rocketeer/hologram",
+		"5": "item/class/rocketeer/rocket_wall",
+		"6": "item/class/hexagon_border"
+	}
+}
