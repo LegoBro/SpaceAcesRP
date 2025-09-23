@@ -4,7 +4,7 @@
 	"parent": "item/class/ability",
 	"textures": {
 		"4": "item/class/sniper/hologram",
-		"5": "item/class/sniper/exoboots",
+		"5": "item/class/sniper/exo_boots",
 		"6": "item/class/hexagon_border"
 	}
 }
