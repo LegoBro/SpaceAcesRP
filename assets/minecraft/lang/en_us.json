@@ -2941,7 +2941,7 @@
   "container.chest": "Chest",
   "container.chestDouble": "Large Chest",
   "container.crafter": "Crafter",
-  "container.crafting": "Crafting",
+  "container.crafting": "",
   "container.creative": "Item Selection",
   "container.dispenser": "Dispenser",
   "container.dropper": "Dropper",
