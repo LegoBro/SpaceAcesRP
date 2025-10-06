@@ -4,7 +4,7 @@
 	"parent": "item/class/ability",
 	"textures": {
 		"4": "item/class/infiltraitor/hologram",
-		"5": "item/class/infiltraitor/flash_grenade",
+		"5": "item/class/infiltraitor/cloak",
 		"6": "item/class/hexagon_border"
 	}
 }
