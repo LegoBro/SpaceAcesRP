@@ -4,7 +4,7 @@
 	"parent": "item/class/ability",
 	"textures": {
 		"4": "item/class/seeker/hologram",
-		"5": "item/class/seeker/weak_glow",
+		"5": "item/class/seeker/event_horizon",
 		"6": "item/class/hexagon_border"
 	}
 }
