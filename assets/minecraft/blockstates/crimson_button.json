@@ -90,7 +90,7 @@
       "uvlock": false,
       "x": 90,
       "y":0,
-      "z": 90
+      "z": 0
     },
     "face=wall,facing=south,powered=false": {
       "model": "minecraft:block/crimson_button",

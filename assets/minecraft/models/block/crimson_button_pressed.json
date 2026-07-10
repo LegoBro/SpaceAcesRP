@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/button_pressed",
 	"textures": {
-		"0": "item/space_aces/hologram_emitter",
-		"particle": "item/space_aces/hologram_emitter"
+		"0": "block/space_aces/hologram_emitter",
+		"particle": "block/space_aces/hologram_emitter"
 	},
 	"elements": [
 		{
