@@ -1,6 +1,29 @@
 {
-    "model": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/class/soldier/fast_blast"
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/class/soldier/fast_blast"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:composite",
+      "models": [
+        {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/class/soldier/right_arm"
+            }
+          ]
+        }
+      ]
     }
   }
+}

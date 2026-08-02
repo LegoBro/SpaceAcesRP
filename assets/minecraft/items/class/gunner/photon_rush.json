@@ -1,6 +1,29 @@
 {
-    "model": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/class/gunner/photon_rush"
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/class/gunner/photon_rush"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:composite",
+      "models": [
+        {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/class/gunner/right_arm"
+            }
+          ]
+        }
+      ]
     }
   }
+}

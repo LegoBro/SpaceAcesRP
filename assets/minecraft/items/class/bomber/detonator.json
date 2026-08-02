@@ -11,9 +11,23 @@
             }
           }
         ],
-        "fallback": {
-          "type": "model",
-          "model": "minecraft:item/class/bomber/detonator"
+    "fallback": {
+      "type": "minecraft:composite",
+      "models": [
+        {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/class/bomber/right_arm"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/class/bomber/detonator"
+            }
+          ]
         }
+      ]
+    }
       }
   }

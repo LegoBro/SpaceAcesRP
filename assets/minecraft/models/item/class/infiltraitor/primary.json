@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/black",
@@ -596,97 +597,139 @@
 		"thirdperson_lefthand": {
 			"translation": [0, -1.5, 0]
 		},
-		"firstperson_righthand": {
-			"translation": [3, 10, 0]
-		},
-		"firstperson_lefthand": {
-			"translation": [3, 10, 0]
-		},
 		"gui": {
 			"rotation": [45, 45, 0],
 			"translation": [0.75, -0.5, 0]
 		}
 	},
-	"groups": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9,
+	"groups": [
+		0,
+		1,
+		2,
+		3,
+		4,
+		5,
+		6,
+		7,
+		8,
+		9,
 		{
 			"name": "Bullet Row",
 			"origin": [12, 9, 8],
+			"scope": 0,
+			"color": 0,
 			"children": [
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [10, 11]
 				},
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [12, 13]
 				},
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [14, 15]
 				},
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [16, 17]
 				},
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [18, 19]
 				},
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [20, 21]
 				},
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [22, 23]
-				}, 24, 25]
+				},
+				24,
+				25
+			]
 		},
 		{
 			"name": "Bullet Row",
 			"origin": [12, 9, 8],
+			"scope": 0,
+			"color": 0,
 			"children": [
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [26, 27]
 				},
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [28, 29]
 				},
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [30, 31]
 				},
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [32, 33]
 				},
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [34, 35]
 				},
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [36, 37]
 				},
 				{
 					"name": "Bullet",
 					"origin": [10.75, 8.75, 9],
+					"scope": 0,
+					"color": 0,
 					"children": [38, 39]
-				}, 40, 41]
+				},
+				40,
+				41
+			]
 		}
 	]
 }

@@ -19,7 +19,7 @@
           "models": [
             {
               "type": "minecraft:model",
-              "model": "minecraft:item/class/template/arm"
+              "model": "minecraft:item/class/scout/right_arm"
             },
             {
               "type": "minecraft:model",

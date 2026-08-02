@@ -1,6 +1,29 @@
 {
-    "model": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/class/rocketeer/piercing_dart"
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/class/rocketeer/piercing_dart"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:composite",
+      "models": [
+        {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/class/rocketeer/right_arm"
+            }
+          ]
+        }
+      ]
     }
   }
+}

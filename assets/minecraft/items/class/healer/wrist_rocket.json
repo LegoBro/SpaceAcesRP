@@ -1,6 +1,29 @@
 {
-    "model": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/class/healer/wrist_rocket"
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/class/healer/wrist_rocket"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:composite",
+      "models": [
+        {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/class/healer/right_arm"
+            }
+          ]
+        }
+      ]
     }
   }
+}

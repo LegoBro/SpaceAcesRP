@@ -1,6 +1,6 @@
 {
     "model": {
       "type": "minecraft:model",
-      "model": "minecraft:item/class/template/head"
+      "model": "minecraft:item/class/scout/head"
     }
   }

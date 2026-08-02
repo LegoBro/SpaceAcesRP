@@ -1,6 +1,6 @@
 {
     "model": {
       "type": "minecraft:model",
-      "model": "minecraft:item/class/gunner/sword_throw"
+      "model": "minecraft:item/class/scout/right_arm"
     }
   }
