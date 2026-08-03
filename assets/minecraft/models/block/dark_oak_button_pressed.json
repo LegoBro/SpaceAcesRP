@@ -1,6 +1,24 @@
 {
-  "parent": "minecraft:block/button_pressed",
-  "textures": {
-    "texture": "minecraft:block/dark_oak_planks"
-  }
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/button_pressed",
+	"textures": {
+		"0": "block/space_aces/pressed_bottom",
+		"particle": "block/space_aces/pressed_bottom"
+	},
+	"elements": [
+		{
+			"from": [-0.08, -2.86908, 0.28867],
+			"to": [16.08, -2.11158, 2.81367],
+			"rotation": {"angle": -12.5, "axis": "x", "origin": [-0.08, -2.61658, -10.31633]},
+			"faces": {
+				"north": {"uv": [0, 6, 16, 7], "texture": "#0"},
+				"east": {"uv": [0, 8, 2.5, 9], "texture": "#0"},
+				"south": {"uv": [0, 7, 16, 8], "texture": "#0"},
+				"west": {"uv": [3, 8, 5.5, 9], "texture": "#0"},
+				"up": {"uv": [16, 2.5, 0, 0], "texture": "#0"},
+				"down": {"uv": [16, 3, 0, 5.5], "texture": "#0"}
+			}
+		}
+	]
 }
