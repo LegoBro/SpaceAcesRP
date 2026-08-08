@@ -20,10 +20,14 @@
             {
               "type": "minecraft:model",
               "model": "minecraft:item/class/seeker/right_arm"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/class/seeker/primary_poison"
             }
           ]
         }
-      ]
+      ] 
     }
   }
 }

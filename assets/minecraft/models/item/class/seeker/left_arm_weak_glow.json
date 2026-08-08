@@ -1,0 +1,37 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [8, 8],
+	"textures": {
+		"0": "item/class/seeker/left_arm_weak_glow",
+		"particle": "item/class/seeker/left_arm_weak_glow"
+	},
+	"elements": [
+		{
+			"from": [7.5, 8, 15],
+			"to": [8.5, 8.15, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 8, 14.5]},
+			"faces": {
+				"north": {"uv": [2, 0, 4, 1], "texture": "#0"},
+				"east": {"uv": [2, 2, 4, 3], "texture": "#0"},
+				"south": {"uv": [0, 4, 2, 5], "texture": "#0"},
+				"west": {"uv": [4, 0, 6, 1], "texture": "#0"},
+				"up": {"uv": [2, 2, 0, 0], "texture": "#0"},
+				"down": {"uv": [2, 2, 0, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"translation": [0, 3, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 74, 66],
+			"translation": [-8.25, 3.75, 0]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"scale": [0, 0, 0]
+		}
+	}
+}

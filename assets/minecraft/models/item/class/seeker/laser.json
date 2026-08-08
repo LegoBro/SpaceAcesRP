@@ -1,0 +1,59 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [8, 8],
+	"textures": {
+		"0": "item/class/seeker/laser",
+		"1": "item/class/seeker/void",
+		"particle": "item/class/seeker/laser"
+	},
+	"elements": [
+		{
+			"name": "Barrel",
+			"from": [8.5, 6.99, 6],
+			"to": [7.5, 7.99, 10],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 7.49, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 6, 6], "texture": "#1"},
+				"east": {"uv": [0, 0, 8, 2], "texture": "#1"},
+				"south": {"uv": [4, 6, 6, 8], "texture": "#1"},
+				"west": {"uv": [0, 2, 8, 4], "texture": "#1"},
+				"up": {"uv": [2, 12, 0, 4], "texture": "#1"},
+				"down": {"uv": [4, 4, 2, 12], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Barrel",
+			"from": [7.75, 7.24, 6.25],
+			"to": [8.25, 7.74, 9.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.25, 7.74, 8.25]},
+			"faces": {
+				"north": {"uv": [6, 4, 7, 5], "texture": "#0"},
+				"east": {"uv": [4, 8, 11, 9], "texture": "#0"},
+				"south": {"uv": [7, 4, 8, 5], "texture": "#0"},
+				"west": {"uv": [4, 9, 11, 10], "texture": "#0"},
+				"up": {"uv": [12, 11, 11, 4], "texture": "#0"},
+				"down": {"uv": [13, 4, 12, 11], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -2, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -2, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 1, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 3, 0]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [-4.25, 0.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

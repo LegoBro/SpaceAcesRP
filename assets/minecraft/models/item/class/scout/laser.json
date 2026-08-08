@@ -1,0 +1,44 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [8, 8],
+	"textures": {
+		"0": "item/class/scout/laser",
+		"particle": "item/class/scout/laser"
+	},
+	"elements": [
+		{
+			"name": "Barrel",
+			"from": [8.5, 6.99, 5],
+			"to": [7.5, 7.99, 11],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 7.49, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 6, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 12, 2], "texture": "#0"},
+				"south": {"uv": [4, 6, 6, 8], "texture": "#0"},
+				"west": {"uv": [0, 2, 12, 4], "texture": "#0"},
+				"up": {"uv": [2, 16, 0, 4], "texture": "#0"},
+				"down": {"uv": [4, 4, 2, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -2, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -2, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 1, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 3, 0]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [-4.25, 0.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

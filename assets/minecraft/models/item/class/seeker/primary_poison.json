@@ -24,9 +24,9 @@
 		},
 		{
 			"name": "PLAYER_ARM",
-			"from": [6.2, 9.2, 14.25],
-			"to": [9.8, 10.8, 18.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [7.325, 10.325, 10.5]},
+			"from": [6.2, 10.95, 14.25],
+			"to": [9.8, 12.55, 18.25],
+			"rotation": {"angle": 12.5, "axis": "x", "origin": [7.325, 12.075, 10.5]},
 			"faces": {
 				"north": {"uv": [7.75, 7.5, 8.625, 7.875], "texture": "#0"},
 				"east": {"uv": [2.5, 7.75, 3.5, 8.125], "texture": "#0"},
@@ -319,10 +319,10 @@
 			"translation": [0, -2, 0]
 		},
 		"firstperson_righthand": {
-			"translation": [-0.75, 1, 0]
+			"translation": [-0.75, 1, -1.25]
 		},
 		"firstperson_lefthand": {
-			"translation": [-0.75, 1, 0]
+			"translation": [-0.75, 1, -1.25]
 		},
 		"gui": {
 			"rotation": [45, 45, 0],
