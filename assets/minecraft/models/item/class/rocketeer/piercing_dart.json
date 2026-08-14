@@ -4,7 +4,7 @@
 	"parent": "item/class/ability",
 	"textures": {
 		"4": "item/class/rocketeer/hologram",
-		"5": "item/class/rocketeer/piercing_dart",
+		"5": "item/class/rocketeer/energy_lance",
 		"6": "item/class/hexagon_border"
 	}
 }

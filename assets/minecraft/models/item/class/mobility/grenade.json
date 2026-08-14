@@ -4,6 +4,7 @@
 	"textures": {
 		"0": "item/class/mobility/flash_grenade_item",
 		"1": "item/class/mobility/beam",
+		"2": "item/class/mobility/strong_beam",
 		"particle": "item/class/mobility/flash_grenade_item"
 	},
 	"elements": [
@@ -31,6 +32,17 @@
 				"west": {"uv": [1.5, 0, 3, 2.5], "texture": "#1"},
 				"up": {"uv": [1.5, 1.5, 0, 0], "texture": "#1"},
 				"down": {"uv": [1.5, 0, 0, 1.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.75, 5.75, 6.75],
+			"to": [9.25, 9.25, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6.75, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1.5, 2.5], "texture": "#2"},
+				"east": {"uv": [4.5, 0, 6, 2.5], "texture": "#2"},
+				"south": {"uv": [3, 0, 4.5, 2.5], "texture": "#2"},
+				"west": {"uv": [1.5, 0, 3, 2.5], "texture": "#2"}
 			}
 		},
 		{
@@ -62,16 +74,16 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, -4, 0]
+			"translation": [0, 1.5, 0]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, -4, 0]
+			"translation": [0, 1.5, 0]
 		},
 		"firstperson_righthand": {
-			"translation": [3, 8, 0]
+			"translation": [0, 4, 0]
 		},
 		"firstperson_lefthand": {
-			"translation": [3, 8, 0]
+			"translation": [0, 4, 0]
 		},
 		"gui": {
 			"rotation": [45, 45, 0],

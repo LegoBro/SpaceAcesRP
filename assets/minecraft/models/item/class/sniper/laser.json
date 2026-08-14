@@ -1,0 +1,58 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/class/sniper/starpiercer_laser",
+		"particle": "item/class/sniper/starpiercer_laser"
+	},
+	"elements": [
+		{
+			"name": "Barrel",
+			"from": [8.5, 7.24, 6],
+			"to": [7.5, 8.24, 10],
+			"rotation": {"angle": 0, "axis": "z", "origin": [9, 7.74, 8]},
+			"faces": {
+				"north": {"uv": [3, 3, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 6, 1], "texture": "#0"},
+				"south": {"uv": [3, 4, 4, 5], "texture": "#0"},
+				"west": {"uv": [0, 1, 6, 2], "texture": "#0"},
+				"up": {"uv": [1, 8, 0, 2], "texture": "#0"},
+				"down": {"uv": [2, 2, 1, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Barrel",
+			"from": [7.75, 7.49, 6.5],
+			"to": [8.25, 7.99, 9.5],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.25, 7.99, 9]},
+			"faces": {
+				"north": {"uv": [4, 3, 4.5, 3.5], "texture": "#0"},
+				"east": {"uv": [2, 2, 7.5, 2.5], "texture": "#0"},
+				"south": {"uv": [4, 3.5, 4.5, 4], "texture": "#0"},
+				"west": {"uv": [2, 2.5, 7.5, 3], "texture": "#0"},
+				"up": {"uv": [2.5, 8.5, 2, 3], "texture": "#0"},
+				"down": {"uv": [3, 3, 2.5, 8.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -2, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -2, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 1, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 3, 0]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [-4.25, 0.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}
