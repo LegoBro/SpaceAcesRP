@@ -7,7 +7,7 @@
           "when":"gui",
           "model": {
             "type": "model",
-            "model":"minecraft:item/class/bomber/toggle_icon"
+            "model":"minecraft:item/class/ability_cooldown"
           }
         }
       ],
@@ -20,10 +20,6 @@
             {
               "type": "minecraft:model",
               "model": "minecraft:item/class/bomber/right_arm"
-            },
-            {
-              "type": "minecraft:model",
-              "model": "minecraft:item/class/bomber/toggle"
             }
           ]
         }

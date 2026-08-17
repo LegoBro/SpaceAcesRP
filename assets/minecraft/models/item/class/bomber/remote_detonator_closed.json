@@ -1,8 +1,9 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench by ThatGreenGem",
 	"textures": {
-		"1": "remote_detonator_closed",
-		"particle": "remote_detonator_closed"
+		"1": "item/class/bomber/remote_detonator",
+		"particle": "item/class/bomber/remote_detonator"
 	},
 	"elements": [
 		{
@@ -121,11 +122,11 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -67, 0],
-			"translation": [0, 5.75, 0.25]
+			"translation": [0.25, 5.75, 0.25]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, -67, 0],
-			"translation": [0, 5.75, 0.25]
+			"translation": [0.25, 5.75, 0.25]
 		}
 	},
 	"groups": [
@@ -136,6 +137,7 @@
 		{
 			"name": "lid",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [4, 5, 6, 7]
 		}

@@ -7,7 +7,7 @@
           "when":"gui",
           "model": {
             "type": "model",
-            "model":"minecraft:item/class/ability_cooldown"
+            "model":"minecraft:item/class/bomber/smokescreen_icon"
           }
         }
       ],
@@ -23,7 +23,7 @@
             },
             {
               "type": "minecraft:model",
-              "model": "minecraft:item/class/bomber/toggle"
+              "model": "minecraft:item/class/bomber/smokescreen"
             }
           ]
         }

@@ -1,7 +1,8 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench by ThatGreenGem",
 	"textures": {
-		"2": "item/class/bomber/remote_detonator_open"
+		"2": "item/class/bomber/remote_detonator"
 	},
 	"elements": [
 		{
@@ -135,6 +136,7 @@
 		{
 			"name": "lid",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [4, 5, 6, 7]
 		}

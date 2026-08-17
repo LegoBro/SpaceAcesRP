@@ -23,7 +23,7 @@
             },
             {
               "type": "minecraft:model",
-              "model": "minecraft:item/class/bomber/detonator"
+              "model": "minecraft:item/class/bomber/remote_detonator_closed"
             }
           ]
         }
