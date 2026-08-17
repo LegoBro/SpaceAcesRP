@@ -4,11 +4,11 @@
       "models": [
         {
           "type": "model",
-          "model": "minecraft:item/class/soldier/left_arm"
+          "model": "minecraft:item/class/soldier/left_arm_watch"
         },
         {
           "type": "model",
-          "model": "minecraft:item/class/soldier/left_arm_vitals"
+          "model": "minecraft:item/class/soldier/left_arm_burst_heal"
         }
       ]
     }

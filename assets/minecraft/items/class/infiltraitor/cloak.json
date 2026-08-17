@@ -19,7 +19,11 @@
           "models": [
             {
               "type": "minecraft:model",
-              "model": "minecraft:item/class/infiltraitor/right_arm"
+              "model": "minecraft:item/class/infiltraitor/right_arm_watch"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/class/infiltraitor/cloak_watch"
             }
           ]
         }
