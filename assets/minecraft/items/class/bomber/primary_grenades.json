@@ -11,6 +11,10 @@
             {
               "type":"model",
               "model": "minecraft:item/class/bomber/primary"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/class/bomber/primary_grenades"
             }
           ]
         }
@@ -29,6 +33,10 @@
             {
               "type": "minecraft:model",
               "model": "minecraft:item/class/bomber/primary"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/class/bomber/primary_grenades"
             }
           ]
         }

@@ -1,0 +1,42 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "item/class/bomber/primary",
+		"particle": "item/class/bomber/smoke"
+	},
+	"elements": [
+		{
+			"from": [7, 8.5, 5.5],
+			"to": [9, 10.5, 5.5],
+			"rotation": {"angle": -25, "axis": "x", "origin": [8, 10, 7.75]},
+			"faces": {
+				"north": {"uv": [0.875, 8.75, 1.875, 9.75], "texture": "#1"},
+				"south": {"uv": [0.875, 8.75, 1.875, 9.75], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"translation": [0, 3, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 3, 0]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [0.25, -1.25, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	},
+	"groups": [
+		{
+			"name": "Site",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
