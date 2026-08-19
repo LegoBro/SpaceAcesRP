@@ -1,0 +1,59 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/class/brawler/phase",
+		"1": "item/class/brawler/phase_2",
+		"particle": "item/class/brawler/phase"
+	},
+	"elements": [
+		{
+			"from": [5, 5, 5],
+			"to": [11, 11, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 12, 12], "texture": "#0"},
+				"east": {"uv": [0, 0, 12, 12], "texture": "#0"},
+				"south": {"uv": [0, 0, 12, 12], "texture": "#0"},
+				"west": {"uv": [0, 0, 12, 12], "texture": "#0"},
+				"up": {"uv": [0, 0, 12, 12], "texture": "#0"},
+				"down": {"uv": [0, 0, 12, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.5, 11.5, 4.5],
+			"to": [11.5, 4.5, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 13.5, 6.5]},
+			"faces": {
+				"north": {"uv": [0, 14, 14, 0], "texture": "#1"},
+				"east": {"uv": [0, 14, 14, 0], "texture": "#1"},
+				"south": {"uv": [0, 14, 14, 0], "texture": "#1"},
+				"west": {"uv": [0, 14, 14, 0], "texture": "#1"},
+				"up": {"uv": [0, 14, 14, 0], "texture": "#1"},
+				"down": {"uv": [0, 14, 14, 0], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [0, -4.5, 0]
+		}
+	}
+}
