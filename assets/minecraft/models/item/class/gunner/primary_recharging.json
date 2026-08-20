@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by ThatGreenGem",
+	"parent": "item/class/gunner/primary",
+	"textures": {
+		"0": "item/class/gunner/primary_recharging",
+		"1": "item/class/gunner/quasar",
+		"particle": "item/class/gunner/primary_recharging"
+	}
+}

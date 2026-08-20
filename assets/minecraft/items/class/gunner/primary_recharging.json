@@ -7,7 +7,7 @@
         "when": "gui",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/class/gunner/primary"
+          "model": "minecraft:item/class/gunner/primary_recharging"
         }
       }
     ],
@@ -23,12 +23,11 @@
             },
             {
               "type": "minecraft:model",
-              "model": "minecraft:item/class/gunner/primary"
+              "model": "minecraft:item/class/gunner/primary_recharging"
             }
           ]
         }
       ]
     }
-  },
-  "hand_animation_on_swap": false
+  }
 }
