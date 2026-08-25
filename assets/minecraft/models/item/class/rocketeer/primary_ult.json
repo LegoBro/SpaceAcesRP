@@ -1,0 +1,31 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/class/rocketeer/primary",
+		"particle": "item/class/rocketeer/primary"
+	},
+	"elements": [
+		{
+			"name": "Body (2)",
+			"from": [7, 8.05, 9.85],
+			"to": [9, 10.05, 9.85],
+			"rotation": {"angle": -30.5, "axis": "x", "origin": [8.4, 7.05, -0.9]},
+			"faces": {
+				"north": {"uv": [2, 12.375, 2.75, 13.125], "texture": "#0"},
+				"south": {"uv": [1.125, 12.375, 1.875, 13.125], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -5, 0]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [-0.5, -1.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}
