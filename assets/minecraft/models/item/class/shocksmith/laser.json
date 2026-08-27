@@ -1,0 +1,59 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [8, 8],
+	"textures": {
+		"0": "item/class/shocksmith/shock",
+		"1": "item/class/shocksmith/laser",
+		"particle": "item/class/shocksmith/shock"
+	},
+	"elements": [
+		{
+			"name": "Barrel",
+			"from": [8.5, 6.99, 5],
+			"to": [7.5, 7.99, 11],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 7.49, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 6, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 12, 2], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [4, 6, 6, 8], "texture": "#0"},
+				"west": {"uv": [0, 2, 12, 4], "texture": "#0"},
+				"up": {"uv": [2, 16, 0, 4], "texture": "#0"},
+				"down": {"uv": [4, 4, 2, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Barrel",
+			"from": [7.75, 7.24, 5.25],
+			"to": [8.25, 7.74, 10.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7.49, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 5, 5], "texture": "#1"},
+				"east": {"uv": [0, 0, 11, 1], "texture": "#1"},
+				"south": {"uv": [4, 6, 5, 7], "texture": "#1"},
+				"west": {"uv": [0, 2, 11, 3], "texture": "#1"},
+				"up": {"uv": [1, 15, 0, 4], "texture": "#1"},
+				"down": {"uv": [3, 4, 2, 15], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -2, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -2, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 1, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 3, 0]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [-4.25, 0.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

@@ -20,6 +20,10 @@
             {
               "type": "minecraft:model",
               "model": "minecraft:item/class/shocksmith/right_arm"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/class/shocksmith/shocksplosion_projectile"
             }
           ]
         }

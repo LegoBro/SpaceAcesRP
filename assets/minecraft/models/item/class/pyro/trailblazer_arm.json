@@ -1,0 +1,72 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [8, 8],
+	"textures": {
+		"0": "item/class/pyro/fire",
+		"particle": "item/class/pyro/fire"
+	},
+	"elements": [
+		{
+			"name": "Barrel",
+			"from": [7.25, 7.25, 7.25],
+			"to": [8.75, 8.75, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 7.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 3, 3, 6], "texture": "#0"},
+				"east": {"uv": [0, 3, 3, 6], "texture": "#0"},
+				"south": {"uv": [0, 3, 3, 6], "texture": "#0"},
+				"west": {"uv": [0, 3, 3, 6], "texture": "#0"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"down": {"uv": [0, 0, 3, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Barrel",
+			"from": [7.5, 8.75, 7.5],
+			"to": [8.5, 10.25, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 9, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 3], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 3], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 3], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 3], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Barrel",
+			"from": [7.75, 10.25, 7.75],
+			"to": [8.25, 11.25, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 10.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 6, 1, 8], "texture": "#0"},
+				"east": {"uv": [0, 6, 1, 8], "texture": "#0"},
+				"south": {"uv": [0, 6, 1, 8], "texture": "#0"},
+				"west": {"uv": [0, 6, 1, 8], "texture": "#0"},
+				"up": {"uv": [0, 6, 1, 7], "texture": "#0"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 3, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 3, 0]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [-4.25, 0.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}
