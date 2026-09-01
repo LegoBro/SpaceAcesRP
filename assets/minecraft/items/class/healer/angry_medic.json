@@ -19,8 +19,13 @@
           "models": [
             {
               "type": "minecraft:model",
-              "model": "minecraft:item/class/healer/right_arm"
+              "model": "minecraft:item/class/healer/angry_medic_watch"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/class/healer/right_arm_watch"
             }
+            
           ]
         }
       ]

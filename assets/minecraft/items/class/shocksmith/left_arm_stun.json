@@ -19,7 +19,7 @@
           "models": [
             {
               "type": "minecraft:model",
-              "model": "minecraft:item/class/rocketeer/left_arm_aim"
+              "model": "minecraft:item/class/shocksmith/left_arm_aim"
             },
             {
               "type": "minecraft:model",
