@@ -4,7 +4,7 @@
 	"parent": "item/class/ability",
 	"textures": {
 		"4": "item/class/bomber/hologram",
-		"5": "item/class/bomber/blast_zone",
+		"5": "item/class/bomber/smoke_grenade",
 		"6": "item/class/hexagon_border"
 	}
 }
