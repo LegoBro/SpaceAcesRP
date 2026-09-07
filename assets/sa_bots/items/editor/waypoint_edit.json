@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "sa_bots:custom_inventory/editor_waypoint_edit"
+  }
+}
