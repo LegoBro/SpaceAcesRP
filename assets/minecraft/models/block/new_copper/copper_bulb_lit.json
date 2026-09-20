@@ -14,7 +14,7 @@
                 "west":  { "texture": "#west", "cullface": "west" },
                 "east":  { "texture": "#east", "cullface": "east" }
             },
-"shade": false
+"shade_direction_override": "up"
         }
     ]
 }
