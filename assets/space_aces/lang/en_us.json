@@ -116,6 +116,15 @@
   "jafan_kesysk":"§eJafan Kesysk",
   "komang_zlatan":"§3Komang Zlatan",
 
+  "game_end.player.stat.kills":" Eliminations: %s",
+  "game_end.player.stat.assists":"   Assists: %s",
+  "game_end.player.stat.deaths":"   Deaths: %s",
+  "game_end.player.stat.damage_dealt":" Damage Dealt: %s",
+  "game_end.player.stat.damage_taken":"   Damage Taken: %s",
+  "game_end.player.stat.healing_dealt":" Healing Dealth: %s",
+  "game_end.player.stat.healing_recieved":"   Healing Received: %s",
+  "game_end.player.stat.play_time":" Play Time: %s",
+
   "reloading": "§7§oReloading...",
 
   "class.scout":"Scout",
@@ -413,5 +422,9 @@
     "class.rocketeer.locking_on": "Locking On",
   "class.rocketeer.locking_on.lore.0": "lock onto nearby enemies",
   "class.rocketeer.locking_on.lore.1": " - launch a volley of rockets at random enemies within view",
-  "class.rocketeer.locking_on.lore.2": " - launches more rockets if there are more enemies"
+  "class.rocketeer.locking_on.lore.2": " - launches more rockets if there are more enemies",
+  
+  
+  "gamemode.payload.bossbar":"Payload Progress",
+  "gamemode.payload.time_left":"Time Left:"
 }
