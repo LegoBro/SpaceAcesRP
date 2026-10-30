@@ -424,7 +424,16 @@
   "class.rocketeer.locking_on.lore.1": " - launch a volley of rockets at random enemies within view",
   "class.rocketeer.locking_on.lore.2": " - launches more rockets if there are more enemies",
   
-  
+  "gamemode.options":"Gamemode Options",
+  "gamemode.payload":"Payload",
+  "gamemode.setback":"Setback",
+
   "gamemode.payload.bossbar":"Payload Progress",
-  "gamemode.payload.time_left":"Time Left:"
+  "gamemode.payload.time_left":"Time Left:",
+
+  "dev.spawnpoint":"Spawnpoints",
+  "dev.spawnpoint.respawn_time":"Respawn Time",
+  
+  
+  "end":"yes"
 }
