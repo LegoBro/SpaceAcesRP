@@ -125,6 +125,10 @@
   "game_end.player.stat.healing":" Healing:",
   "game_end.player.stat.healing_dealt":"   Dealt: %s",
   "game_end.player.stat.healing_received":"   Received: %s",
+  "game_end.player.stat.shots":" Shots",
+  "game_end.player.stat.shots.fired":"   Fired: %s",
+  "game_end.player.stat.shots.hits":"   Hits: %s",
+  "game_end.player.stat.shots.headshots":"   Headshots: %s",
   "game_end.player.stat.play_time":" Play Time: %s",
 
   "reloading": "§7§oReloading...",
@@ -177,6 +181,7 @@
   "class.sniper.starpiercer": "Starpiercer",
   "class.sniper.starpiercer.lore.1": "a high-damage sniper rifle",
   "class.sniper.starpiercer.lore.2": " - hold Right-Click to charge up a shot",
+  "class.sniper.starpiercer.lore.3": " - press Jump to fire",
   "class.sniper.vis_mine": "Vis Mine",
   "class.sniper.vis_mine.lore.1": "a mine to help you see enemies",
   "class.sniper.vis_mine.lore.2": " - plants a visibility mine",
