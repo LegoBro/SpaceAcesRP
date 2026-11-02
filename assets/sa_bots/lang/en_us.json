@@ -41,6 +41,7 @@
   "sa_bot.menu.auto_assign_sector": "Auto-assign sector:",
   "sa_bot.menu.assign_sector": "Sector:",
   "sa_bot.menu.find_nearest_unset": "find nearest unassigned",
+  "sa_bot.menu.count_nodes_per_sector": "count nodes per sector",
   "sa_bot.menu.count_unassigned_waypoints": "(%s loaded waypoints are unassigned)",
   "sa_bot.menu.x_spread": "X Spread",
   "sa_bot.menu.z_spread": "Z Spread",
@@ -71,6 +72,8 @@
   "sa_bot.menu.debug.show_junction_decisions": "Show junction decisions (spectators)",
   "sa_bot.menu.debug.adopt_nav_channel_of_nearest_bot": "Adopt nav sector of nearest bot",
   "sa_bot.menu.debug.shot_bot_task": "Show bot task + goal",
+  "sa_bot.menu.debug.shot_bot_movement_target": "Show bot movement target",
+  "sa_bot.menu.debug.glowing_bots": "Glowing bots",
 
   "sa_bot.menu.event": "Event:",
 
