@@ -182,18 +182,21 @@
 		{
 			"name": "button",
 			"origin": [9, 3, 11],
+			"scope": 0,
 			"color": 0,
 			"children": [0, 1, 2]
 		},
 		{
 			"name": "tank",
 			"origin": [2.6, 1, 9],
+			"scope": 0,
 			"color": 0,
 			"children": [3, 4, 5]
 		},
 		{
 			"name": "drill",
 			"origin": [11, 0, 5],
+			"scope": 0,
 			"color": 0,
 			"children": [6, 7, 8, 9, 10, 11]
 		},
