@@ -15,6 +15,21 @@
       {
         "model": "minecraft:block/light_gray_candle_one_candle",
         "y":270
+      },
+      {
+        "model": "minecraft:block/light_blue_candle_one_candle"
+      },
+      {
+        "model": "minecraft:block/light_blue_candle_one_candle",
+        "y":90
+      },
+      {
+        "model": "minecraft:block/light_blue_candle_one_candle",
+        "y":180
+      },
+      {
+        "model": "minecraft:block/light_blue_candle_one_candle",
+        "y":270
       }
     ],
     "candles=1,lit=true": {
