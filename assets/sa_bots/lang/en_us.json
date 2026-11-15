@@ -108,8 +108,9 @@
   "sa_bot.nav_output.started_sector": "started sector %s",
   "sa_bot.nav_output.sector_n": "sector %s",
   "sa_bot.nav_output.calculated_distance_for_n_nodes": "Evaluated %s waypoints.",
-  "sa_bot.nav_output.finished_phase_1": "Finished unconditional nav. Starting conditional nav...",
-  "sa_bot.nav_output.finished_calculations": "Finished all calculations. Evaluated %s waypoints in %s ticks.",
+  "sa_bot.nav_output.finished_phase_1": "Finished conditional nav. Starting unconditional nav...",
+  "sa_bot.nav_output.finished_phase_2": "Finished unconditional nav. Starting open-pathway conditional nav...",
+  "sa_bot.nav_output.finished_calculations": "Finished all calculations. Recursively evaluated %s waypoints in %s ticks.",
 
   "sa_bot.debug.target": "TARGET",
   "sa_bot.debug.picked_randomly": "Picked randomly!",
