@@ -1,0 +1,48 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by ThatGreenGem",
+	"parent": "minecraft:block/block",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "block/purple_candle_four"
+	},
+	"elements": [
+		{
+			"from": [5.27791, 0, 6.04904],
+			"to": [7.27791, 1, 11.04904],
+			"rotation": {"angle": 27.5, "axis": "y", "origin": [6.27791, 0, 6.04904]},
+			"faces": {
+				"north": {"uv": [5, 4.5, 6, 5], "texture": "#1"},
+				"east": {"uv": [10, 3, 12.5, 3.5], "texture": "#1"},
+				"south": {"uv": [10.5, 5, 11.5, 5.5], "texture": "#1"},
+				"west": {"uv": [10, 3.5, 12.5, 4], "texture": "#1"},
+				"up": {"uv": [9, 2, 10, 4.5], "texture": "#1"},
+				"down": {"uv": [2.5, 9, 3.5, 11.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.77791, 0.5, 5.79904],
+			"to": [8.77791, 0.5, 10.29904],
+			"rotation": {"angle": 27.5, "axis": "y", "origin": [7.77791, 0.5, 7.29904]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 2.25, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 0.5, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 2.25, 0], "texture": "#1"},
+				"up": {"uv": [5, 9.5, 5.5, 11.75], "texture": "#1"},
+				"down": {"uv": [5.5, 9.5, 6, 11.75], "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "rocket",
+			"origin": [14, 0, 8],
+			"scope": 0,
+			"color": 0,
+			"children": []
+		},
+		0,
+		1
+	]
+}

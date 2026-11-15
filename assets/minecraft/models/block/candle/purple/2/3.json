@@ -1,0 +1,63 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by ThatGreenGem",
+	"parent": "minecraft:block/block",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "block/purple_candle_two",
+		"particle": "block/purple_candle"
+	},
+	"elements": [
+		{
+			"from": [6.44236, 0, 6.3],
+			"to": [11.44236, 3, 11.3],
+			"rotation": {"angle": 35, "axis": "z", "origin": [6.44236, 0, 9.3]},
+			"faces": {
+				"north": {"uv": [2.5, 6.5, 5, 8], "texture": "#1"},
+				"east": {"uv": [7, 0, 9.5, 1.5], "texture": "#1"},
+				"south": {"uv": [7, 1.5, 9.5, 3], "texture": "#1"},
+				"west": {"uv": [0, 7.5, 2.5, 9], "texture": "#1"},
+				"up": {"uv": [3.5, 4, 6, 6.5], "texture": "#1"},
+				"down": {"uv": [0, 5, 2.5, 7.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [9.44236, 0, 4.7],
+			"to": [11.44236, 2.1, 9.7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.44236, 0, 7.7]},
+			"faces": {
+				"north": {"uv": [2.5, 5, 3.5, 6], "texture": "#1"},
+				"east": {"uv": [3, 10, 5.5, 11], "texture": "#1"},
+				"south": {"uv": [5, 6.5, 6, 7.5], "texture": "#1"},
+				"west": {"uv": [10, 3, 12.5, 4], "texture": "#1"},
+				"up": {"uv": [5.5, 10, 6.5, 12.5], "texture": "#1"},
+				"down": {"uv": [6.5, 10, 7.5, 12.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.44236, 3, 8.8],
+			"to": [8.44236, 9, 8.8],
+			"rotation": {"angle": 35, "axis": "z", "origin": [7.44236, 2, 8.8]},
+			"faces": {
+				"north": {"uv": [3, 11, 3.5, 14], "texture": "#1"},
+				"east": {"uv": [3.5, 11, 4, 14], "texture": "#1"},
+				"south": {"uv": [4, 11, 4.5, 14], "texture": "#1"},
+				"west": {"uv": [4.5, 11, 5, 14], "texture": "#1"},
+				"up": {"uv": [2.5, 6, 3, 6.5], "texture": "#1"},
+				"down": {"uv": [3, 6, 3.5, 6.5], "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		1,
+		2,
+		{
+			"name": "circle",
+			"origin": [10, 0, 11.5],
+			"scope": 0,
+			"color": 0,
+			"children": []
+		}
+	]
+}
