@@ -3,6 +3,10 @@
     "candles=1,lit=false": {
       "model": "minecraft:block/light_gray_candle_one_candle"
     },
+    "candles=1,lit=false": {
+      "model": "minecraft:block/light_gray_candle_one_candle",
+      "y":90
+    },
     "candles=1,lit=true": {
       "model": "minecraft:block/light_gray_candle_one_candle_lit"
     },
