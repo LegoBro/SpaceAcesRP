@@ -441,6 +441,25 @@
   "dev.spawnpoint":"Spawnpoints",
   "dev.spawnpoint.respawn_time":"Respawn Time",
   
+  "dev.marker_killer":"Marker Killer",
+  "dev.weak_health_pack":"Spawn Weak Health Pack",
+  "dev.strong_health_pack":"Spawn Strong Health Pack",
+  "dev.blue_spawn":"Spawn Blue Spawnpoint",
+  "dev.red_spawn":"Spawn Red Spawnopint",
+  "dev.general_spawn":"Spawn General Spawnpoint",
+  "dev.spawnpoint_plus_one":"Spawnpoint Progression +1",
+  "dev.spawnpoint_minus_one":"Spawnpoint Progression -1",
+  
+  "dev.gamemode.payload.path":"Spawn Payload Path",
+  "dev.gamemode.payload.connector":"Connect Payload Path",
+  "dev.gamemode.payload.checkpoint":"Convert Path to Checkpoint",
+  "dev.gamemode.setback.minus_one":"Point -1",
+  "dev.gamemode.setback.point":"Spawn Capture Point",
+  "dev.gamemode.setback.plus_one":"Point +1",
+  "dev.weather":"Weather",
+  "dev.weather.get_cloud_emitter":"Get data on nearest Cloud Emitter",
+  "dev.weather.set_cloud_emitter":"Set data on nearest Cloud Emitter",
+  
   
   "end":"yes"
 }
