@@ -5,10 +5,6 @@
       {
         "type": "minecraft:model",
         "model": "minecraft:item/health/health_pack"
-      },
-      {
-        "type": "minecraft:model",
-        "model": "minecraft:item/health/strong"
       }
     ]
   }
