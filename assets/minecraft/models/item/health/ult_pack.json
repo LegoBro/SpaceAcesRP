@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/health/health_pack",
-		"particle": "item/health/health_pack"
+		"0": "item/health/ult_pack",
+		"particle": "item/health/ult_pack"
 	},
 	"elements": [
 		{
