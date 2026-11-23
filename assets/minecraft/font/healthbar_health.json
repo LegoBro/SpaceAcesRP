@@ -1,0 +1,29 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u200c": 0
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/health.png",
+            "ascent": -28,
+            "height": 16,
+            "chars": [
+                "0A",
+                "1B",
+                "2C",
+                "3D",
+                "4E",
+                "5F",
+                "6G",
+                "7H",
+                "8I",
+                "9J"
+            ]
+        }
+    ]
+}
