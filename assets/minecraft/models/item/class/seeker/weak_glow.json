@@ -5,6 +5,6 @@
 	"textures": {
 		"4": "item/class/seeker/hologram",
 		"5": "item/class/seeker/event_horizon",
-		"6": "item/class/hexagon_border"
+		"6": "item/class/passive_border"
 	}
 }

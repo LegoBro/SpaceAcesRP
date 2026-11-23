@@ -5,6 +5,6 @@
 	"textures": {
 		"4": "item/class/gunner/hologram",
 		"5": "item/class/gunner/radiant_capacitors",
-		"6": "item/class/hexagon_border"
+		"6": "item/class/passive_border"
 	}
 }
