@@ -444,6 +444,7 @@
   "dev.marker_killer":"Marker Killer",
   "dev.weak_health_pack":"Spawn Weak Health Pack",
   "dev.strong_health_pack":"Spawn Strong Health Pack",
+  "dev.ult_pack":"Spawn Ultimate Charge Pack",
   "dev.blue_spawn":"Spawn Blue Spawnpoint",
   "dev.red_spawn":"Spawn Red Spawnopint",
   "dev.general_spawn":"Spawn General Spawnpoint",
