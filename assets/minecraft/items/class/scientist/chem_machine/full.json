@@ -1,0 +1,23 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/class/scientist/chem_machine/feet"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/class/scientist/chem_machine/base"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/class/scientist/chem_machine/goo"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/class/scientist/chem_machine/cage"
+      }
+    ]
+  }
+}
