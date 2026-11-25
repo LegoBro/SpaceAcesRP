@@ -1,0 +1,58 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/class/mechanic/turret_head",
+		"particle": "item/class/mechanic/turret_head"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [7.5, 7.5, -3],
+			"to": [8.5, 8.5, 4],
+			"faces": {
+				"north": {"uv": [8, 4, 8.5, 4.5], "texture": "#0"},
+				"east": {"uv": [12, 3.5, 15.5, 4], "texture": "#0"},
+				"south": {"uv": [8, 4.5, 8.5, 5], "texture": "#0"},
+				"west": {"uv": [12, 4, 15.5, 4.5], "texture": "#0"},
+				"up": {"uv": [3.5, 15, 3, 11.5], "texture": "#0"},
+				"down": {"uv": [11, 11.5, 10.5, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "base",
+			"from": [7.25, 7.25, -3.25],
+			"to": [8.75, 8.75, -2.75],
+			"faces": {
+				"north": {"uv": [13.5, 2, 14.25, 2.75], "texture": "#0"},
+				"east": {"uv": [8, 5, 8.25, 5.75], "texture": "#0"},
+				"south": {"uv": [3.5, 13.5, 4.25, 14.25], "texture": "#0"},
+				"west": {"uv": [4.5, 13.5, 4.75, 14.25], "texture": "#0"},
+				"up": {"uv": [13.75, 12.25, 13, 12], "texture": "#0"},
+				"down": {"uv": [14.25, 3, 13.5, 3.25], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0.5, -0.25],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0.5, -0.25],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 4, -0.25],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 4, -0.25],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"gui": {
+			"rotation": [45, 45, 0]
+		}
+	}
+}

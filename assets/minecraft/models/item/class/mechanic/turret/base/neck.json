@@ -1,0 +1,33 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/class/mechanic/turret_base",
+		"particle": "item/class/mechanic/turret_base"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [6.25, 4, 6.25],
+			"to": [9.75, 6, 9.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, -8.01609, -8]},
+			"faces": {
+				"north": {"uv": [8, 2, 9.75, 3], "texture": "#0"},
+				"east": {"uv": [8, 3, 9.75, 4], "texture": "#0"},
+				"south": {"uv": [8, 4, 9.75, 5], "texture": "#0"},
+				"west": {"uv": [8, 5, 9.75, 6], "texture": "#0"},
+				"up": {"uv": [1.75, 7.75, 0, 6], "texture": "#0"},
+				"down": {"uv": [8.75, 0, 7, 1.75], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"translation": [3, 0, 0]
+		},
+		"gui": {
+			"rotation": [45, 45, 0]
+		}
+	}
+}

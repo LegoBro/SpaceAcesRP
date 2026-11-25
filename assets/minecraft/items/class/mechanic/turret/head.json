@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/class/mechanic/turret/head/barrel"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/class/mechanic/turret/head/head"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/class/mechanic/turret/head/energy_pack"
+      }
+    ]
+  }
+}
